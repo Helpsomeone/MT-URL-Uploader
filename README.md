@@ -4,8 +4,8 @@ A simple url uploader bot with permenent thumbnail support
 
 </p>
 <p align="center">
-  <a href="https://github.com/MRK-YT/MT-URL-Uploader/stargazers">
-    <img src="https://img.shields.io/github/stars/MRK-YT/MT-URL-Uploader?style=social">
+  <a href="https://github.com/Helpsomeone/MT-URL-Uploader/stargazers">
+    <img src="https://img.shields.io/github/stars/Helpsomeone/MT-URL-Uploader?style=social">
 
   </a>
   
@@ -33,7 +33,7 @@ Thanks To Fayas
 
 <b>Deploy in your vps</b>
 ```sh
-git clone https://github.com/MRK-YT/MT-URL-Uploader
+git clone https://github.com/Helpsomeone/MT-URL-Uploader
 cd MT-URL-Uploader
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
